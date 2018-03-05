@@ -4,3 +4,4 @@ Git Cheatsheet
 - git push -u origin <branch-name> : mengirimkan file dari local ke remote dengan membuat branch baru di remote
 - git remote add origin <git-address> : menambahkan tracking repo git local dengan remote
 - git remote -v : melihat alamat git local dengan remote
+- git log : melihat commit history
