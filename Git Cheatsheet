@@ -5,3 +5,4 @@ Git Cheatsheet
 - git remote add origin <git-address> : menambahkan tracking repo git local dengan remote
 - git remote -v : melihat alamat git local dengan remote
 - git log : melihat commit history
+- git reset <commit-hash> : kembali ke commit tertentu
