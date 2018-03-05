@@ -1,6 +1,6 @@
 Git Cheatsheet
-- git init								:
-- git clone								: 
-- git push -u origin <branch-name>		:
-- git remote add origin <git-address>	:
-- git remote -v							:
+- git init : inisialisasi folder sebagai git repository
+- git clone : download/clone repo berdasarkan alamat git
+- git push -u origin <branch-name> : mengirimkan file dari local ke remote dengan membuat branch baru di remote
+- git remote add origin <git-address> : menambahkan tracking repo git local dengan remote
+- git remote -v : melihat alamat git local dengan remote
