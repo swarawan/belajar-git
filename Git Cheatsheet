@@ -1,0 +1,6 @@
+Git Cheatsheet
+- git init								:
+- git clone								: 
+- git push -u origin <branch-name>		:
+- git remote add origin <git-address>	:
+- git remote -v							:
